@@ -1,4 +1,4 @@
-# 🏦 WebaBank
+# 🏦 WebbBank
 
 WebaBank is a simple banking web application developed using Java technologies. It allows users to perform basic banking operations such as account management, deposits, withdrawals, money transfers, and balance inquiries through an easy-to-use web interface.
 
